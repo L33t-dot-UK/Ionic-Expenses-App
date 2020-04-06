@@ -18,4 +18,4 @@ The application fulfils the specification and saves each expense claim as a text
 
 It is not possible to view previous expenses within the app. This could be implemented later however I did not do this as it was not part of the specification.
 
-To view a video of the application running and meeting the specification got to; ADD YT LINK HERE.
+To view a video of the application running go to; https://youtu.be/oKy7cZTocTI.
