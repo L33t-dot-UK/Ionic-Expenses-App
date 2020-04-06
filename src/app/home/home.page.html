@@ -1,0 +1,37 @@
+<ion-header [translucent]="true">
+  <ion-toolbar color="dark" align="center">
+    <ion-title>
+      Expenses Application
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-header collapse="condense">
+    <ion-toolbar>
+      <ion-title size="large">Expenses Application</ion-title>
+    </ion-toolbar>
+  </ion-header>
+
+  <div id="container">
+    <ion-grid class="ion-align-items-center">
+      <ion-row>
+        <ion-col>
+          <ion-button href="/add-expense/" color="success">Add Expense</ion-button>
+        </ion-col>
+      </ion-row>
+      <ion-row>
+        <ion-col>
+          <ion-button href="/view-expenses/" color="tertiary">View Expenses</ion-button>
+        </ion-col>
+      </ion-row>
+      <ion-row>
+        <ion-col>
+          <ion-button color="danger">Exit Application</ion-button>
+        </ion-col>
+      </ion-row>
+    </ion-grid>
+  </div>
+
+    
+</ion-content>
